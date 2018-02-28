@@ -16,7 +16,7 @@ Tomcat 6, Java 8
 
 ### Sample CRUD Methods
 
-```
+
 
 * **GET** : http://localhost:8080/lms/books
  - *Retrieves a list of books from the database*
@@ -31,7 +31,6 @@ Tomcat 6, Java 8
  - *Updates a book with the corresponding {bookId} with new information passed into the body*
 
 
-```
 
 ## Deployment
 
