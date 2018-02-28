@@ -31,9 +31,9 @@ Tomcat 6, Java 8
  - *Updates a book with the corresponding {bookId} with new information passed into the body*
 
 
-```
-For the list of all APIs please see code under DAO
-```
+
+* For the list of all APIs please see code under Controller Folder. *
+
 
 ## Deployment
 
